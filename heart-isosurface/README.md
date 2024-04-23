@@ -3,7 +3,9 @@
 
 #### Usage
 To compile: ```> javac Heart.java ```
+
 To run: ```> java Heart <grid_resolution> <image_resolution> <sampling_distance> ```
+
 example: ```> java Heart 256 512 0.01```
 
 #### Features
@@ -19,12 +21,15 @@ example: ```> java Heart 256 512 0.01```
 - Variable Resolution, isovalue, sampling distance
 
 ```Heart Iso Surface Using Trilinear Interpolation```
+
 ![Heart Iso Surface Using Trilinear Interpolation](heart_iso_trilinear.png)
 
 ```Herat Iso Surface with 2x Zoom on Trilinear Interpolation```
+
 ![Herat Iso Surface with 2x Zoom on Trilinear Interpolation](heart_iso_2xzoom-trilinear.png)
 
 ```Heart Iso Surface Using Cubic Interpolation```
+
 ![Heart Iso Surface Using Cubic Interpolation](heart_iso_cubic.png)
 
 **Limitation** - Horizontal visual artifact in the render.

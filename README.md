@@ -35,3 +35,5 @@
    </tr>
   </tr>
 </table>
+
+#### For more Algebraic functions to render like Heart equation, visit [this link](https://homepage.univie.ac.at/herwig.hauser/bildergalerie/gallery.html).
